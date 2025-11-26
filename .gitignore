@@ -45,3 +45,6 @@ app-example
 # IDEs
 .vscode/
 .idea/
+
+# Prettier config file
+.prettierrc.json
