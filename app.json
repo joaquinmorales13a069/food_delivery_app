@@ -29,6 +29,14 @@
     "plugins": [
       "expo-router",
       [
+        "sentry-expo",
+        {
+          "organization": "GlitchTip_Testing",
+          "project": "food_delivery",
+          "url": "https://glitchtip.joaquinmorales.dev"
+        }
+      ],
+      [
         "expo-splash-screen",
         {
           "image": "./assets/images/splash-icon.png",
